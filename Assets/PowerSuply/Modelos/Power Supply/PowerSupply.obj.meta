@@ -1,33 +1,66 @@
 fileFormatVersion: 2
-guid: 5353d579f18fd18489a6b0482083f135
-timeCreated: 1532552956
+guid: f70e68a085bb1d949a3c58e6983d9aee
+timeCreated: 1534878356
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: Body1
-    100002: Body2
-    100004: Body3
-    100006: Body5
-    100008: //RootNode
+    100002: Caja
+    100004: Marco
+    100006: Pantalla_A
+    100008: Pantalla_V
+    100010: //RootNode
+    100012: Regulador_Corriente
+    100014: Regulador_Voltaje
+    100016: Switch
+    100018: Tapa_Pantallas
     400000: Body1
-    400002: Body2
-    400004: Body3
-    400006: Body5
-    400008: //RootNode
-    2100000: Steel - Satin
+    400002: Caja
+    400004: Marco
+    400006: Pantalla_A
+    400008: Pantalla_V
+    400010: //RootNode
+    400012: Regulador_Corriente
+    400014: Regulador_Voltaje
+    400016: Switch
+    400018: Tapa_Pantallas
+    2100000: Body1Mat
+    2100002: CajaMat
+    2100004: MarcoMat
+    2100006: Pantalla_AMat
+    2100008: Pantalla_VMat
+    2100010: Regulador_CorrienteMat
+    2100012: Regulador_VoltajeMat
+    2100014: SwitchMat
+    2100016: Tapa_PantallasMat
     2300000: Body1
-    2300002: Body2
-    2300004: Body3
-    2300006: Body5
+    2300002: Caja
+    2300004: Marco
+    2300006: Pantalla_A
+    2300008: Pantalla_V
+    2300010: Regulador_Corriente
+    2300012: Regulador_Voltaje
+    2300014: Switch
+    2300016: Tapa_Pantallas
     3300000: Body1
-    3300002: Body2
-    3300004: Body3
-    3300006: Body5
+    3300002: Caja
+    3300004: Marco
+    3300006: Pantalla_A
+    3300008: Pantalla_V
+    3300010: Regulador_Corriente
+    3300012: Regulador_Voltaje
+    3300014: Switch
+    3300016: Tapa_Pantallas
     4300000: Body1
-    4300002: Body2
-    4300004: Body3
-    4300006: Body5
+    4300002: Caja
+    4300004: Marco
+    4300006: Pantalla_A
+    4300008: Pantalla_V
+    4300010: Regulador_Corriente
+    4300012: Regulador_Voltaje
+    4300014: Switch
+    4300016: Tapa_Pantallas
   externalObjects: {}
   materials:
     importMaterials: 1
